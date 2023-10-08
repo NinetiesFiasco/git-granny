@@ -1,0 +1,6 @@
+[submodule "git-papa"]
+	path = git-papa
+	url = https://github.com/NinetiesFiasco/git-papa.git
+[submodule "git-mama"]
+	path = git-mama
+	url = https://github.com/NinetiesFiasco/git-mama.git
